@@ -1,7 +1,5 @@
 package ru.job4j.condition;
 
-import java.sql.SQLOutput;
-
 public class Greeting {
     public static void main(String[] args) {
         String idea = "I like Java,";
